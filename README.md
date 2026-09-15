@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ## Data
 
-* The partially datasets used in the research can be downloaded [here](https://pan.baidu.com/s/1rGi8yuZuDQAQlXUex9T_Aw?pwd=2678). Each point-cloud file should be stored as a plain text file with four columns:
+* The partially datasets used in the research can be downloaded [here](https://doi.org/10.5281/zenodo.22766769). Each point-cloud file should be stored as a plain text file with four columns:
 
 ```text
 x y z label
